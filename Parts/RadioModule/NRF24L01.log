@@ -1,0 +1,70 @@
+STEP translation to Solid Edge
+Date: fredag,maj 19,2023 01:14
+Source File: C:\Users\Ludwig\Desktop\MF2019\Project\CompleteProject\MF2019-main\Parts\RadioModule\NRF24L01.step
+Author: Author
+Organization: Unknown
+Source System: FreeCAD
+
+Hardware:
+Processor: Intel(R) Core(TM) i7-3770K CPU @ 3.50GHz
+Operating System: Windows 10
+Installed Memory: 15.94 GB
+
+Software Information
+Parasolid Version: 34.0.153
+PSBodyShop Version: 34.0.110
+Step Adapter Version: 9.0.92
+Solid Edge Version: 222.00.00.132 x64
+
+Step Import Options
+Import Faceted Bodies: On
+Import Check Bodies: Off
+Import Curves: On
+Import DoNotSave: On
+Import Multiple Bodies As Single Part File: On
+Import Stitch Surfaces: On
+Import Boolean Solids: On
+Make Base Feature: On
+Simplify Geometry: On
+Import Imprint Curves: On
+Import Drive: C:
+Import Stitch Surfaces: On
+Import Surfaces: On
+Import Output Path: C:\Users\Ludwig\Desktop\MF2019\Project\CompleteProject\MF2019-main\Parts\RadioModule
+Import Enable Default Output Path: On
+Import PMI: Off
+Import As Internal Components: Off
+Import Path: 
+
+Translating to Parasolid data types...
++Begin Assembly: 1
++Created SE Assembly File C:\Users\Ludwig\Desktop\MF2019\Project\CompleteProject\MF2019-main\Parts\RadioModule\NRF24L01.asm
+|--+Created SE Part File C:\Users\Ludwig\Desktop\MF2019\Project\CompleteProject\MF2019-main\Parts\RadioModule\Body001.par
+|--+Created SE Part File C:\Users\Ludwig\Desktop\MF2019\Project\CompleteProject\MF2019-main\Parts\RadioModule\Body_001.par
+|--+Created SE Part File C:\Users\Ludwig\Desktop\MF2019\Project\CompleteProject\MF2019-main\Parts\RadioModule\1x4 Male Header 2_001.par
+|--+Created SE Part File C:\Users\Ludwig\Desktop\MF2019\Project\CompleteProject\MF2019-main\Parts\RadioModule\1x4 Male Header 2_002.par
+|--+Created SE Part File C:\Users\Ludwig\Desktop\MF2019\Project\CompleteProject\MF2019-main\Parts\RadioModule\1x4 Female Header_001.par
+|--+Created SE Part File C:\Users\Ludwig\Desktop\MF2019\Project\CompleteProject\MF2019-main\Parts\RadioModule\1x4 Female Header_002.par
+|--+Created SE Part File C:\Users\Ludwig\Desktop\MF2019\Project\CompleteProject\MF2019-main\Parts\RadioModule\0603 Resistor_001.par
+|--+Created SE Part File C:\Users\Ludwig\Desktop\MF2019\Project\CompleteProject\MF2019-main\Parts\RadioModule\0603 Capacitor_001.par
+|--+Created SE Part File C:\Users\Ludwig\Desktop\MF2019\Project\CompleteProject\MF2019-main\Parts\RadioModule\0603 Resistor_002.par
+|--+Created SE Part File C:\Users\Ludwig\Desktop\MF2019\Project\CompleteProject\MF2019-main\Parts\RadioModule\0603 Capacitor_002.par
+|--+Created SE Part File C:\Users\Ludwig\Desktop\MF2019\Project\CompleteProject\MF2019-main\Parts\RadioModule\0603 Capacitor_003.par
+|--+Created SE Part File C:\Users\Ludwig\Desktop\MF2019\Project\CompleteProject\MF2019-main\Parts\RadioModule\0603 Capacitor_004.par
+|--+Created SE Part File C:\Users\Ludwig\Desktop\MF2019\Project\CompleteProject\MF2019-main\Parts\RadioModule\0603 Capacitor_005.par
+|--+Created SE Part File C:\Users\Ludwig\Desktop\MF2019\Project\CompleteProject\MF2019-main\Parts\RadioModule\0603 Capacitor_006.par
+|--+Created SE Part File C:\Users\Ludwig\Desktop\MF2019\Project\CompleteProject\MF2019-main\Parts\RadioModule\0603 Capacitor_007.par
+|--+Created SE Part File C:\Users\Ludwig\Desktop\MF2019\Project\CompleteProject\MF2019-main\Parts\RadioModule\0603 Capacitor_008.par
+|--+Created SE Part File C:\Users\Ludwig\Desktop\MF2019\Project\CompleteProject\MF2019-main\Parts\RadioModule\0603 Capacitor_009.par
+|--+Created SE Part File C:\Users\Ludwig\Desktop\MF2019\Project\CompleteProject\MF2019-main\Parts\RadioModule\White SM Capacitor_001.par
+|--+Created SE Part File C:\Users\Ludwig\Desktop\MF2019\Project\CompleteProject\MF2019-main\Parts\RadioModule\White SM Capacitor_002.par
+|--+Created SE Part File C:\Users\Ludwig\Desktop\MF2019\Project\CompleteProject\MF2019-main\Parts\RadioModule\White SM Capacitor_003.par
+|--+Created SE Part File C:\Users\Ludwig\Desktop\MF2019\Project\CompleteProject\MF2019-main\Parts\RadioModule\Crystal 16MHz_001.par
+|--+Created SE Part File C:\Users\Ludwig\Desktop\MF2019\Project\CompleteProject\MF2019-main\Parts\RadioModule\NRF Chip_001.par
++Total Parts: 172
++Assemblies: 0
++Solid Bodies: 172
++Sheet Bodies: 0
++End Assembly: 1
+Translation process completed
+Total time required to translate and post process:00 : 00 : 04

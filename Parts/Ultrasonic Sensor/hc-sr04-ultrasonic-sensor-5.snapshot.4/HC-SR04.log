@@ -1,0 +1,96 @@
+STEP translation to Solid Edge
+Date: lördag,maj 13,2023 09:03
+Source File: C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\HC-SR04.stp
+Author: Unknown
+Organization: Unknown
+Source System: DEX
+
+Hardware:
+Processor: Intel(R) Core(TM) i7-8650U CPU @ 1.90GHz
+Operating System: Windows 10 Professional
+Installed Memory: 15.87 GB
+
+Software Information
+Parasolid Version: 34.0.153
+PSBodyShop Version: 34.0.110
+Step Adapter Version: 9.0.92
+Solid Edge Version: 222.00.00.132 x64
+
+Step Import Options
+Import Faceted Bodies: On
+Import Check Bodies: Off
+Import Curves: On
+Import DoNotSave: On
+Import Multiple Bodies As Single Part File: On
+Import Stitch Surfaces: On
+Import Boolean Solids: On
+Make Base Feature: On
+Simplify Geometry: On
+Import Imprint Curves: On
+Import Drive: C:
+Import Stitch Surfaces: On
+Import Surfaces: On
+Import Output Path: C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4
+Import Enable Default Output Path: On
+Import PMI: Off
+Import As Internal Components: Off
+Import Path: 
+
+Translating to Parasolid data types...
++Begin Assembly: 1
++Created SE Assembly File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\HC-SR04.asm
+|--+Created SE Part File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\Board.par
+|--+Created SE Part File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\SOT23.par
+|--+Created SE Part File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\0603 Resistor.par
+|--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\SOT23.par
+|--+Created SE Part File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\SOIC16 narrow.par
+|--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\SOIC16 narrow.par
+|--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\SOIC16 narrow.par
+|--+Created SE Part File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\Crystal Oscillator (SMD).par
+|--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\0603 Resistor.par
+|--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\0603 Resistor.par
+|--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\0603 Resistor.par
+|--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\0603 Resistor.par
+|--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\0603 Resistor.par
+|--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\0603 Resistor.par
+|--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\0603 Resistor.par
+|--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\0603 Resistor.par
+|--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\0603 Resistor.par
+|--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\0603 Resistor.par
+|--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\0603 Resistor.par
+|--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\0603 Resistor.par
+|--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\0603 Resistor.par
+|--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\0603 Resistor.par
+|--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\0603 Resistor.par
+|--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\0603 Resistor.par
+|--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\0603 Resistor.par
+|--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\0603 Resistor.par
+|--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\0603 Resistor.par
+|--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\0603 Resistor.par
+|--+Created SE Part File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\0603 Capacitor.par
+|--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\0603 Capacitor.par
+|--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\0603 Capacitor.par
+|--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\0603 Capacitor.par
+|--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\0603 Capacitor.par
+|--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\0603 Capacitor.par
+|--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\0603 Capacitor.par
+|--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\0603 Capacitor.par
+|--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\0603 Capacitor.par
+|--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\0603 Capacitor.par
+|--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\0603 Capacitor.par
+|--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\0603 Capacitor.par
+|--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\0603 Capacitor.par
+|--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\0603 Capacitor.par
+|--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\0603 Capacitor.par
+|--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\0603 Capacitor.par
+|--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\0603 Capacitor.par
+|--+Created SE Part File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\Transducer.par
+|--+Created SE Part File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\Mesh.par
+|--+Reusing File C:\Users\Lenovo\OneDrive\Skrivbord\MF2019\Project 23-05-13\MF2019-main\Parts\Ultrasonic Sensor\hc-sr04-ultrasonic-sensor-5.snapshot.4\Mesh.par
++Total Parts: 58
++Assemblies: 0
++Solid Bodies: 58
++Sheet Bodies: 0
++End Assembly: 1
+Translation process completed
+Total time required to translate and post process:00 : 00 : 22

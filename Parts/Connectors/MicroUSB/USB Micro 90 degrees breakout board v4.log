@@ -1,0 +1,50 @@
+STEP translation to Solid Edge
+Date: söndag,juni 04,2023 08:31
+Source File: C:\Users\Ludwig\Desktop\MF2019\Project\23-06-02\Parts\Connectors\MicroUSB\USB Micro 90 degrees breakout board v4.step
+Author: Unknown
+Organization: Unknown
+Source System: Autodesk Translation Framework v12.4.0.73
+
+Hardware:
+Processor: Intel(R) Core(TM) i7-3770K CPU @ 3.50GHz
+Operating System: Windows 10
+Installed Memory: 15.94 GB
+
+Software Information
+Parasolid Version: 34.0.153
+PSBodyShop Version: 34.0.110
+Step Adapter Version: 9.0.92
+Solid Edge Version: 222.00.00.132 x64
+
+Step Import Options
+Import Faceted Bodies: On
+Import Check Bodies: Off
+Import Curves: On
+Import DoNotSave: On
+Import Multiple Bodies As Single Part File: On
+Import Stitch Surfaces: On
+Import Boolean Solids: On
+Make Base Feature: On
+Simplify Geometry: On
+Import Imprint Curves: On
+Import Drive: C:
+Import Stitch Surfaces: On
+Import Surfaces: On
+Import Output Path: C:\Users\Ludwig\Desktop\MF2019\Project\23-06-02\Parts\Connectors\MicroUSB
+Import Enable Default Output Path: On
+Import PMI: Off
+Import As Internal Components: Off
+Import Path: 
+
+Translating to Parasolid data types...
++Begin Assembly: 1
++Created SE Assembly File C:\Users\Ludwig\Desktop\MF2019\Project\23-06-02\Parts\Connectors\MicroUSB\USB Micro 90 degrees breakout board v4.asm
+|--+Created SE Part File C:\Users\Ludwig\Desktop\MF2019\Project\23-06-02\Parts\Connectors\MicroUSB\USB Micro 90 degrees breakout board v4.par
+|--+Created SE Part File C:\Users\Ludwig\Desktop\MF2019\Project\23-06-02\Parts\Connectors\MicroUSB\USB3150-30-130-A--3DModel-STEP-56544 v1.par
++Total Parts: 116
++Assemblies: 0
++Solid Bodies: 116
++Sheet Bodies: 0
++End Assembly: 1
+Translation process completed
+Total time required to translate and post process:00 : 00 : 08

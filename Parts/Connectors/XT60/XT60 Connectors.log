@@ -1,0 +1,82 @@
+STEP translation to Solid Edge
+Date: söndag,juni 04,2023 09:51
+Source File: C:\Users\Ludwig\Desktop\MF2019\Project\23-06-02\Parts\Connectors\XT60\XT60 Connectors.stp
+Author: Malcolm
+Organization: Unknown
+Source System: Autodesk Inventor 2011
+
+Hardware:
+Processor: Intel(R) Core(TM) i7-3770K CPU @ 3.50GHz
+Operating System: Windows 10
+Installed Memory: 15.94 GB
+
+Software Information
+Parasolid Version: 34.0.153
+PSBodyShop Version: 34.0.110
+Step Adapter Version: 9.0.92
+Solid Edge Version: 222.00.00.132 x64
+
+Step Import Options
+Import Faceted Bodies: On
+Import Check Bodies: Off
+Import Curves: On
+Import DoNotSave: On
+Import Multiple Bodies As Single Part File: On
+Import Stitch Surfaces: On
+Import Boolean Solids: On
+Make Base Feature: On
+Simplify Geometry: On
+Import Imprint Curves: On
+Import Drive: C:
+Import Stitch Surfaces: On
+Import Surfaces: On
+Import Output Path: C:\Users\Ludwig\Desktop\MF2019\Project\23-06-02\Parts\Connectors\XT60
+Import Enable Default Output Path: On
+Import PMI: Off
+Import As Internal Components: Off
+Import Path: 
+
+Translating to Parasolid data types...
++Begin Assembly: 1
++Created SE Assembly File C:\Users\Ludwig\Desktop\MF2019\Project\23-06-02\Parts\Connectors\XT60\XT60 Connectors.asm
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\Ludwig\Desktop\MF2019\Project\23-06-02\Parts\Connectors\XT60\XT60 Connector Male Connector.asm
+|  |--+Created SE Part File C:\Users\Ludwig\Desktop\MF2019\Project\23-06-02\Parts\Connectors\XT60\XT60 Connector Male Housing.par
+|  |--+Created SE Part File C:\Users\Ludwig\Desktop\MF2019\Project\23-06-02\Parts\Connectors\XT60\XT60 Connector Male Contact.par
+|  |--+Reusing File C:\Users\Ludwig\Desktop\MF2019\Project\23-06-02\Parts\Connectors\XT60\XT60 Connector Male Contact.par
+|--+Total Parts: 5
+|--+Assemblies: 0
+|--+Solid Bodies: 5
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\Ludwig\Desktop\MF2019\Project\23-06-02\Parts\Connectors\XT60\XT60 Connector Female Connector.asm
+|  |--+Created SE Part File C:\Users\Ludwig\Desktop\MF2019\Project\23-06-02\Parts\Connectors\XT60\XT60 Connector Female Housing.par
+|  |--+Created SE Part File C:\Users\Ludwig\Desktop\MF2019\Project\23-06-02\Parts\Connectors\XT60\XT60 Connector Female Contact.par
+|  |--+Reusing File C:\Users\Ludwig\Desktop\MF2019\Project\23-06-02\Parts\Connectors\XT60\XT60 Connector Female Contact.par
+|--+Total Parts: 5
+|--+Assemblies: 0
+|--+Solid Bodies: 5
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File C:\Users\Ludwig\Desktop\MF2019\Project\23-06-02\Parts\Connectors\XT60\XT60 Connector Female Connector.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File C:\Users\Ludwig\Desktop\MF2019\Project\23-06-02\Parts\Connectors\XT60\XT60 Connector Male Connector.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
++Total Parts: 2
++Assemblies: 2
++Solid Bodies: 0
++Sheet Bodies: 0
++End Assembly: 1
+Translation process completed
+Total time required to translate and post process:00 : 00 : 05
